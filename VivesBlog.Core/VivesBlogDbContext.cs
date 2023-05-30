@@ -1,7 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using VivesBlog.Ui.Mvc.Models;
+using VivesBlog.Model;
 
-namespace VivesBlog.Ui.Mvc.Core
+
+namespace VivesBlog.Core
 {
     public class VivesBlogDbContext: DbContext
     {

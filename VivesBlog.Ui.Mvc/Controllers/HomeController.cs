@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using Microsoft.EntityFrameworkCore;
-using VivesBlog.Ui.Mvc.Core;
+using VivesBlog.Service;
 using VivesBlog.Ui.Mvc.Models;
-using VivesBlog.Ui.Mvc.Services;
+
 
 namespace VivesBlog.Ui.Mvc.Controllers
 {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace VivesBlog.Ui.Mvc.Models
+namespace VivesBlog.Model
 {
     public class Article
     {

@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using VivesBlog.Ui.Mvc.Core;
-using VivesBlog.Ui.Mvc.Services;
+using VivesBlog.Core;
+using VivesBlog.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

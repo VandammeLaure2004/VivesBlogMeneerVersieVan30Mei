@@ -1,7 +1,7 @@
 ﻿using JetBrains.Annotations;
 using Microsoft.AspNetCore.Mvc;
-using VivesBlog.Ui.Mvc.Models;
-using VivesBlog.Ui.Mvc.Services;
+using VivesBlog.Model;
+using VivesBlog.Service;
 
 namespace VivesBlog.Ui.Mvc.Controllers
 {

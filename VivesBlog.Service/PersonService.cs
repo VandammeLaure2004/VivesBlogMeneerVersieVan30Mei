@@ -1,7 +1,8 @@
-﻿using VivesBlog.Ui.Mvc.Core;
-using VivesBlog.Ui.Mvc.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using VivesBlog.Core;
+using VivesBlog.Model;
 
-namespace VivesBlog.Ui.Mvc.Services
+namespace VivesBlog.Service
 {
     public class PersonService
     {

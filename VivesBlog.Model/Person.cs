@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace VivesBlog.Ui.Mvc.Models
+namespace VivesBlog.Model
 {
     public class Person
     {
